@@ -9,7 +9,7 @@ h2 {
   text-align:center;
 }
 form {
-  background-color:#007acc;
+  background-color:#a20dcf;
   padding:30px 40px;
   color:white;
   text-align:center;
@@ -26,8 +26,8 @@ input {
   width:50px;
   border:none;
   background-color:#fff;
-  box-shadow:1px 2px 4px #167dae;
-  color:#555; 
+  box-shadow:1px 2px 4px #6f16ae;
+  color:#3b3939; 
   text-align:center;
   font-size:14px;
   cursor:pointer;
